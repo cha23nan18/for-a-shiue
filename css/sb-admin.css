@@ -126,7 +126,7 @@ ul.alert-dropdown {
 @media(min-width:768px) {
     .side-nav {
         position: fixed;
-        top: 79px;
+        top: 119px;
         left: 225px;
         width: 225px;
         margin-left: -225px;
@@ -278,11 +278,19 @@ ul.alert-dropdown {
 }
 .header{
     background: url("../img/header.jpg") repeat-x left bottom !important;
-    height: 80px;
+    height: 120px;
 }
 .row{
-    padding-top: 50px;
+    padding-top: 90px;
 }
 p.blue{
     color:#0040FF;
+}
+.navbar-brand{
+    font-size: 4em;
+    padding-top: 36px;
+    font-family: "微軟正黑體", "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 900;
+    color: #fff !important;
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.5);
 }

@@ -200,7 +200,7 @@ footer p {
 }
 .pd-left-35{padding-left: 35px}
 .enter{
-    position: absolute;
+    position: fixed;
     bottom : 0; right: 0;
     width: 30%;
     margin: auto;
